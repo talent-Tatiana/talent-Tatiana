@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Tatiana, analista de talento en **Pevaar**, empresa tech que trabaja con clientes en EE.UU. desarrollando soluciones con tecnologías Microsoft como **C#, .NET, Azure y SQL Server**.
+Soy Tatiana, analista de talento y de recursos humanos en **Pevaar**, empresa tech que trabaja con clientes en EE.UU. desarrollando soluciones con tecnologías Microsoft como **C#, .NET, Azure y SQL Server**.
 
 🎯 Actualmente busco desarrolladores junior donde no es necesario tener experiencia pero si conocimientos y habilidades.
 
