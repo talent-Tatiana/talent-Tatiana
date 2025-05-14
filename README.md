@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**talent-Tatiana/talent-Tatiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Tatiana, analista de talento en **Pevaar**, empresa tech que trabaja con clientes en EE.UU. desarrollando soluciones con tecnologías Microsoft como **C#, .NET, Azure y SQL Server**.
 
-Here are some ideas to get you started:
+🎯 Actualmente busco desarrolladores junior donde no es necesario tener experiencia pero si conocimientos y habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adicionalmente, también busco desarrolladores con experiencia en:
+- C# / .NET Core / ASP.NET
+- Azure, SQL Server
+- Arquitectura limpia y buenas prácticas
+- Inglés intermedio-avanzado
+
+📌 Modalidad: 100% remota  
+🤝 Contratación estable y proyectos desafiantes  
+🌎 Cultura colaborativa, enfocada en calidad y crecimiento
+
+---
+
+📩 Si estás abierto a nuevas oportunidades, puedes escribirme:
+
+- Email: **karen.castillo@pevaar.com**
+- LinkedIn: www.linkedin.com/in/tatiana-castillo-parra-bba466180 
+
+¡Gracias por visitar mi perfil!
